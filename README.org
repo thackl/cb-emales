@@ -1,0 +1,13 @@
+Supplementary data for our manuscripts “Endogenous virophages populate the
+genomes of a marine heterotrophic flagellate” describing EMALEs - endogenous
+mavius-like elements - likely involved in the defense of their host against
+giant virus predation.
+
+`emales/` - nucleotide sequences;  gene, TIR (terminal inverted repeat) and
+Ngaro annotations for EMALEs; EMALE locations in Cafeteria genomes.
+
+`ngaros/` - nucletide sequences of Ngaro retrotransposons; Ngaro locations in
+Cafeteria genomes.
+
+`phylogeny/` - Multiple sequence alignments of core genes and other genes of
+interest and the phylogenetic trees reconstructed from those alignments
